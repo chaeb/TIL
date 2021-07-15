@@ -1,4 +1,4 @@
-#  :pencil: **Today I Learned**
+#  :pencil: **Today I Learned** :pencil:
 
-> 21.07.15 오늘 배운 것
+> 열공 빡공! :book: :smile_cat:
 
